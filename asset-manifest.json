@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/counter_game/static/css/main.20e9fe97.chunk.css",
+    "main.js": "/counter_game/static/js/main.27f28485.chunk.js",
+    "main.js.map": "/counter_game/static/js/main.27f28485.chunk.js.map",
+    "runtime-main.js": "/counter_game/static/js/runtime-main.ecf0ca06.js",
+    "runtime-main.js.map": "/counter_game/static/js/runtime-main.ecf0ca06.js.map",
+    "static/js/2.d873d872.chunk.js": "/counter_game/static/js/2.d873d872.chunk.js",
+    "static/js/2.d873d872.chunk.js.map": "/counter_game/static/js/2.d873d872.chunk.js.map",
+    "index.html": "/counter_game/index.html",
+    "precache-manifest.95922d3fa04644ca2e1ca34cae7a78d1.js": "/counter_game/precache-manifest.95922d3fa04644ca2e1ca34cae7a78d1.js",
+    "service-worker.js": "/counter_game/service-worker.js",
+    "static/css/main.20e9fe97.chunk.css.map": "/counter_game/static/css/main.20e9fe97.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecf0ca06.js",
+    "static/js/2.d873d872.chunk.js",
+    "static/css/main.20e9fe97.chunk.css",
+    "static/js/main.27f28485.chunk.js"
+  ]
+}
